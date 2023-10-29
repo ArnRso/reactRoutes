@@ -1,8 +1,8 @@
 import App from "./App.jsx";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Blog from "./pages/Blog";
-import Country from "./pages/Country";
+import Home from "./pages/Home.jsx";
+import About from "./pages/About.jsx";
+import Blog from "./pages/Blog.jsx";
+import Country from "./pages/Country.jsx";
 
 const routes = [
   {
